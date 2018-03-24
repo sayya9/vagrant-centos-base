@@ -1,6 +1,8 @@
 # vagrant-centos-base
 
-Base for CentOS 7
+Base for CentOS 7.
+
+The purpose of the repository is to test in lab.
 
 INSTALL
 =======
